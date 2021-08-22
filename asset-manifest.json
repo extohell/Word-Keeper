@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Word-Keeper/static/css/main.02e9117f.chunk.css",
-    "main.js": "/Word-Keeper/static/js/main.9bfec580.chunk.js",
-    "main.js.map": "/Word-Keeper/static/js/main.9bfec580.chunk.js.map",
+    "main.js": "/Word-Keeper/static/js/main.4a58920d.chunk.js",
+    "main.js.map": "/Word-Keeper/static/js/main.4a58920d.chunk.js.map",
     "runtime-main.js": "/Word-Keeper/static/js/runtime-main.00a38d3c.js",
     "runtime-main.js.map": "/Word-Keeper/static/js/runtime-main.00a38d3c.js.map",
     "static/js/2.3eaae325.chunk.js": "/Word-Keeper/static/js/2.3eaae325.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.00a38d3c.js",
     "static/js/2.3eaae325.chunk.js",
     "static/css/main.02e9117f.chunk.css",
-    "static/js/main.9bfec580.chunk.js"
+    "static/js/main.4a58920d.chunk.js"
   ]
 }
