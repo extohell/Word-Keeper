@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const instance = axios.create({
-  baseURL: 'http://api.datamuse.com'
+  baseURL: 'https://api.datamuse.com'
 });
 
 const partsOfSpeach = {
